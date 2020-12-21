@@ -18,6 +18,7 @@
   <wph_column_w>30</wph_column_w>
   <delta_column_w>40</delta_column_w>
   <lastControllerGUID>09b73b22027041369ce6a769c148e3d5</lastControllerGUID>
+  <lastControllerGUID>7da3b4b8266343fb99ae0bf058fc484c</lastControllerGUID>
   <widgetMemory>true</widgetMemory>
   <widgetWorkTime>true</widgetWorkTime>
   <widgetControllerTime>true</widgetControllerTime>
@@ -47,17 +48,25 @@
   <watering>2</watering>
   <watering_days>31</watering_days>
   <watering_time>30</watering_time>
+  <watering_days>0</watering_days>
+  <watering_time>0</watering_time>
   <start_watering_time>0</start_watering_time>
   <switch_w_to_a>1</switch_w_to_a>
   <turn_on_pump>1</turn_on_pump>
   <watering_sensor_index>-1</watering_sensor_index>
   <watering_stop_border>60</watering_stop_border>
   <watering_start_border>32</watering_start_border>
+  <watering_stop_border>0</watering_stop_border>
+  <watering_start_border>0</watering_start_border>
   <connect_to_router>true</connect_to_router>
   <router_id>Honor</router_id>
   <router_password>HtRj7UJQ</router_password>
   <station_id>TEPLICA</station_id>
   <station_password>12345678</station_password>
+  <router_id>ANNA21</router_id>
+  <router_password>250074747504</router_password>
+  <station_id>GREENHOUSE</station_id>
+  <station_password>Maximus1</station_password>
   <widgets>
     <widget>widgetWindowsChannels</widget>
     <widget>widgetWindowsPosition</widget>
