@@ -49,3 +49,4 @@ Temporary Items
 .apdisk
 EXTENDED_VERSION/SOFT/config.xml
 EXTENDED_VERSION/SOFT/config.xml
+*.bak
